@@ -9,4 +9,4 @@ var Empleado = /** @class */ (function () {
     };
     ;
     return Empleado;
-}());
+}()) ;

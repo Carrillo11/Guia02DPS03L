@@ -11,4 +11,4 @@ var Calculadora = /** @class */ (function () {
         return this.num1 / this.num2;
     };
     return Calculadora;
-}());
+}()) ;
